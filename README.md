@@ -22,8 +22,6 @@ This project classifies gender and vehicle types from grayscale images using His
 
 ## 📊 Output
 
-Accuracy metrics for classification
-
-Visualization of HOG features
-
-GUI-based image prediction demo
+- Accuracy metrics for classification
+- Visualization of HOG features
+- GUI-based image prediction demo
